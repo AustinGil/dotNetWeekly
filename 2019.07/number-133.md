@@ -4,7 +4,7 @@
 
 1. [Another Take on Access Token Management in ASP.NET Core](https://leastprivilege.com/2019/06/30/another-take-on-access-token-management-in-asp-net-core-and-announcing-identitymodel-aspnetcore/)
 1. [Modern web application bugs - Erlend Oftedal](https://www.youtube.com/watch?v=j6f3NSfDPoE)
-1. [Vue.js functional components - What, Why, and When](https://stegosource.com/vue-js-functional-components-what-why-and-when/)
+1. [Vue.js functional components - What, Why, and When](https://austingil.com/vue-js-functional-components-what-why-and-when/)
 1. [Vue without View - An Introduction to Renderless Components](https://dev.to/ycmjason/vue-without-view-an-introduction-to-renderless-components-23ld)
 1. [Migrating to GraphQL - A Practical Assessment](https://arxiv.org/abs/1906.07535)
 1. [Zero-Downtime Web Apps for ASP .NET Core](https://wakeupandcode.com/zero-downtime-web-apps-for-asp-net-core/)
